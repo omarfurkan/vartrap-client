@@ -5,6 +5,7 @@ import Home from './Components/Home/Home';
 import Login from './Components/Login/Login';
 import Purchase from './Components/Purchase/Purchase';
 import Navbar from './Components/Shared/Navbar';
+import NotFoundPage from './Components/Shared/NotFoundPage';
 import SignUp from './Components/Signup/SignUp';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route path="/purchase" element={<Purchase />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </div>
   );
