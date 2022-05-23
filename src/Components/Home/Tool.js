@@ -11,7 +11,7 @@ const Tool = ({ tool }) => {
             <p>Minimum order Quantity: {minimumOrderQuantity}</p>
             <p>Available Quantity: {availableQuantity}</p>
             <p>Price: {price}</p>
-            <Link to='/purchase'><button class="btn btn-primary font-bold mt-2">Purchase</button></Link>
+            <Link to='/purchase'><button className="btn btn-primary font-bold mt-2">Purchase</button></Link>
         </div>
     );
 };

@@ -7,14 +7,14 @@ const Testimonial = () => {
             <div className='grid grid-cols-4 text-center gap-10'>
                 <div>
                     <div className='flex grid-cols-2'>
-                        <div class="card w-96 bg-red-50 shadow-xl">
-                            <div class="avatar mx-auto pt-2">
-                                <div class="w-24 rounded-full border-4 border-primary">
+                        <div className="card w-96 bg-red-50 shadow-xl">
+                            <div className="avatar mx-auto pt-2">
+                                <div className="w-24 rounded-full border-4 border-primary">
                                     <img src="https://api.lorem.space/image/face?hash=92310" />
                                 </div>
                             </div>
-                            <div class="card-body">
-                                <h2 class="card-title">Card title!</h2>
+                            <div className="card-body">
+                                <h2 className="card-title">Card title!</h2>
                                 <p>If a dog chews shoes whose shoes does he choose?</p>
                             </div>
                         </div>
@@ -23,14 +23,14 @@ const Testimonial = () => {
 
                 <div>
                     <div className='flex grid-cols-2'>
-                        <div class="card w-96 bg-red-50 shadow-xl">
-                            <div class="avatar mx-auto pt-2">
-                                <div class="w-24 rounded-full border-4 border-primary">
+                        <div className="card w-96 bg-red-50 shadow-xl">
+                            <div className="avatar mx-auto pt-2">
+                                <div className="w-24 rounded-full border-4 border-primary">
                                     <img src="https://api.lorem.space/image/face?hash=92310" />
                                 </div>
                             </div>
-                            <div class="card-body">
-                                <h2 class="card-title">Card title!</h2>
+                            <div className="card-body">
+                                <h2 className="card-title">Card title!</h2>
                                 <p>If a dog chews shoes whose shoes does he choose?</p>
                             </div>
                         </div>
@@ -39,14 +39,14 @@ const Testimonial = () => {
 
                 <div>
                     <div className='flex grid-cols-2'>
-                        <div class="card w-96 bg-red-50 shadow-xl">
-                            <div class="avatar mx-auto pt-2">
-                                <div class="w-24 rounded-full border-4 border-primary">
+                        <div className="card w-96 bg-red-50 shadow-xl">
+                            <div className="avatar mx-auto pt-2">
+                                <div className="w-24 rounded-full border-4 border-primary">
                                     <img src="https://api.lorem.space/image/face?hash=92310" />
                                 </div>
                             </div>
-                            <div class="card-body">
-                                <h2 class="card-title">Card title!</h2>
+                            <div className="card-body">
+                                <h2 className="card-title">Card title!</h2>
                                 <p>If a dog chews shoes whose shoes does he choose?</p>
                             </div>
                         </div>
@@ -55,14 +55,14 @@ const Testimonial = () => {
 
                 <div>
                     <div className='flex grid-cols-2'>
-                        <div class="card w-96 bg-red-50 shadow-xl">
-                            <div class="avatar mx-auto pt-2">
-                                <div class="w-24 rounded-full border-4 border-primary">
+                        <div className="card w-96 bg-red-50 shadow-xl">
+                            <div className="avatar mx-auto pt-2">
+                                <div className="w-24 rounded-full border-4 border-primary">
                                     <img src="https://api.lorem.space/image/face?hash=92310" />
                                 </div>
                             </div>
-                            <div class="card-body">
-                                <h2 class="card-title">Card title!</h2>
+                            <div className="card-body">
+                                <h2 className="card-title">Card title!</h2>
                                 <p>If a dog chews shoes whose shoes does he choose?</p>
                             </div>
                         </div>
