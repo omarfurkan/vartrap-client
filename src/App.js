@@ -23,6 +23,7 @@ function App() {
         } />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
+        <Route path="/purchase/:id" element={<Purchase />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </div>
