@@ -10,8 +10,8 @@ const Tools = () => {
     }, [])
     return (
         <div className='max-w-screen-2xl mx-auto'>
-            <h2 className='text-4xl	font-bold text-center py-4 text-primary'>Tools</h2>
-            <div className='grid grid-cols-3 gap-10 text-justify'>
+            <h2 className='text-6xl	font-bold text-center py-10 text-primary'>Tools</h2>
+            <div className='grid grid-cols-1 lg:grid-cols-3 gap-10 text-justify'>
                 {
                     tools.map(tool => <Tool
                         key={tool._id}
