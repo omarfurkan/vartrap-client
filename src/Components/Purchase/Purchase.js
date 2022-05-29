@@ -11,7 +11,7 @@ const Purchase = () => {
 
 
     useEffect(() => {
-        const url = `http://localhost:5000/purchase/${id}`
+        const url = `https://murmuring-sierra-84087.herokuapp.com/purchase/${id}`
         console.log(url)
         fetch(url)
 
