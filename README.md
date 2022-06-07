@@ -1,8 +1,8 @@
 ### Vartrap 
 # Features
-Implement of Authentication system with secured API
-Individual administration power for admin, client and dealers.
-Complete responsive and user Friendly
+- Implement of Authentication system with secured API
+- Individual administration power for admin, client and dealers.
+- Complete responsive and user Friendly
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
